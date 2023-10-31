@@ -1,6 +1,2 @@
-# Chess-Former
-A Project for my university written with JS
-game link : https://www.crazygames.com/game/chessformer
-I worked only on the first level.
-To run the game : node main.js.
-To run the possible next states : node test.js.
+Chessformer: A JavaScript Game Project
+This project is a part of my university coursework, where I worked on developing the first level of the game Chessformer. The game is written in JavaScript.
