@@ -3,6 +3,7 @@
 //my stone : * ;
 //the target : + ;
 const Queue = require('queue-nodejs');
+const Graph = require('./graph');
 const { LinearFilter } = require('three');
 const queue = new Queue();
 

@@ -38,3 +38,5 @@ class Graph {
             console.log(i + " -> " + conc);
         }
     }}
+
+    module.exports = Graph;
